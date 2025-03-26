@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: hello-12231113
+    env: python
+    buildCommand: ""
+    startCommand: "python app.py"
